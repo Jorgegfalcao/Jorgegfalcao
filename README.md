@@ -17,7 +17,7 @@ Um entusiasta da tecnologia desde pequeno, sempre buscando evolução na área. 
 - **Projeto Start - Rede Cidadã:** Aplicação desenvolvida com JavaScript, Java e MySQL.
 - **Aplicativo de ensino didático para jovens** *(em desenvolvimento...)*
 - **Site para ficha e consulta de RPG de mesa** *(em desenvolvimento...)*
-- **Jogo de RPG para plataforma** [https://github.com/users/Jorgegfalcao/projects/1] *(em desenvolvimento...)*
+- **Jogo de RPG para plataforma** [https://github.com/Jorgegfalcao/Seja-um-aventureiro-] *(em desenvolvimento...)*
   
 ## Como me Encontrar
 - [LinkedIn](https://www.linkedin.com/in/jorge-falcão-9684b034b)
